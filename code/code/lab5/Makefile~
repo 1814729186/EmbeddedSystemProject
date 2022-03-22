@@ -1,0 +1,5 @@
+
+EXENAME := gobang
+EXESRCS := main.c button.c eventHandler.c bluetooehTouvhevent.c gobang.c
+
+include ../common/rules.mk
